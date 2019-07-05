@@ -1,0 +1,9 @@
+{
+  "translation": {
+    "new_account": "Crear Nueva Cuenta",
+    "user_name": "Nombre Usuario",
+    "password": "Contraseña",
+    "confirm_password": "Confirmar Contraseña",
+    "create": "Crear"
+  }
+}
